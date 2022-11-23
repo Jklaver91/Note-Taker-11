@@ -9,7 +9,6 @@
   - [**Technologies Used**](#technologies-used)
   - [**Installation**](#installation)
   - [**Usage**](#usage)
-  - [Step 3: If you wish to delete a note click the red trash icon next to the note you wish to delete.](#step-3-if-you-wish-to-delete-a-note-click-the-red-trash-icon-next-to-the-note-you-wish-to-delete)
   - [**Visuals**](#visuals)
   - [**My Github**](#my-github)
   - [**License**](#license)
