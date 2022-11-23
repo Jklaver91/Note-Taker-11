@@ -10,6 +10,7 @@
   - [**Installation**](#installation)
   - [**Usage**](#usage)
   - [Step 3: If you wish to delete a note click the red trash icon next to the note you wish to delete.](#step-3-if-you-wish-to-delete-a-note-click-the-red-trash-icon-next-to-the-note-you-wish-to-delete)
+  - [**Visuals**](#visuals)
   - [**My Github**](#my-github)
   - [**License**](#license)
     - [Thanks for visiting our GitHub!](#thanks-for-visiting-our-github)
@@ -45,6 +46,10 @@ Step 1: Click 'Get Started' and enter your note Title and text in the appropriat
 Step 2: When finished click the save icon in the top right of the page. 
 Step 3: If you wish to delete a note click the red trash icon next to the note you wish to delete.
 ---
+
+## **Visuals**
+
+![Note-Taker-11](./images/Note-Taker.png)
 
 ## **My Github**
 
